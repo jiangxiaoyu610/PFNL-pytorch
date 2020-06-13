@@ -1,7 +1,7 @@
 # PFNL-pytorch
-This project rewrite ![PFNL](https://github.com/psychopa4/PFNL) model by pytorch. More details about the model in the paper: <Progressive Fusion Video Super-Resolution Network via Exploiting Non-Local Spatio-Temporal Correlations>.  
+This project rewrite [PFNL](https://github.com/psychopa4/PFNL) model by pytorch. More details about the model in the paper: <Progressive Fusion Video Super-Resolution Network via Exploiting Non-Local Spatio-Temporal Correlations>.  
 
-The original author of this model is ![psychopa4](https://github.com/psychopa4).
+The original author of this model is [psychopa4](https://github.com/psychopa4).
 
 ## About
 I rewrite the PFNL model by pytorch, by contrast the original author used tensorflow.  
